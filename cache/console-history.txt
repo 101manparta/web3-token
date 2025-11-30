@@ -1,0 +1,32 @@
+const token = await Token.attach("0xAlamatKontrakDisini");
+const token = await Token.attach("0xAlamatKontrakD
+const Token = await ethers.getContractFactory("Token");
+const Token = await ethers.getContractFactory("Tokconst token = await Token.attach("0xAlamatKo
+const [deployer, addr1] = await ethers.getSigners();
+const Token = await ethers.getContractFactory("Tok
+const [deployer, addr1] = await ethers.getSigners(); 
+console.log(balance.toString());
+let balance = await token.balanceOf(addr1.address);
+const token = await Token.attach("alamat_
+const Token = await ethers.getContractFactory("Token");
+const [deployer, addr1] = await ethers.getSigners();
+(await token.balanceOf(acc2.address)).toString()
+token
+acc2.address
+acc2 = accounts[1]
+const accs = await ethers.getSigners()
+accounts = await ethers.getSigners()
+const accounts = await ethers.getSigners()
+await token.transfer(acc2.address, 1000)
+const aacc2.address
+const accounts = await ethers.getSigners()
+await toketoken.target
+const token = await Token.deploy()
+await token.name()
+token.target
+await token.waitForDeployment()
+const token = await Token.deploy()
+const Token = await ethers.getContractFactory("Token")
+await ethers
+const [owner] = await ethers.getSigners()
+await ethers.getSigners()
